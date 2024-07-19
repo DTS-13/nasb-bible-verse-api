@@ -91,5 +91,5 @@ Chapter is capitalized; verse is optional. Don't forget the pound symbol!
 A working version of this example is at https://bibleapp.free.nf/widget/example.html.
 ### Do not link the script from this website as it will not work! Use the link below or download yourself!
 ## API Link
-The API link is:
+The API link is: https://cdn.jsdelivr.net/gh/DTS-13/nasb-bible-verse-api/script.js
 
